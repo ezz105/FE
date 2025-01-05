@@ -17,7 +17,9 @@ Make sure to read the full article for detailed insights and practical advice.
 
 1. **Master the fundamentals**: Strong basics in HTML, CSS, and JavaScript are crucial.
 2. **Understand how the web works**: Know the role of HTML, CSS, and JavaScript.
-3. **Get familiar with Data Structures & Algorithms**: Key for coding complex programs.
+3. **Get familiar with Data Structures & Algorithms**: [Key for coding complex programs.]
+[FreeCodeCamp Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0)
+
 4. **Learn by doing rather than reading/watching**: Practice is essential.
 5. **Ask for help when stuck**: Don't waste time on issues others can help with.
 6. **Ask for help the proper way**: Do your research before seeking help.
