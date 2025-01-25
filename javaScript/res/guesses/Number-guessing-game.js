@@ -158,6 +158,7 @@ function resetGame() {
 
     // إزالة الزر
     document.querySelector('button').remove();
+    document.querySelector('.lastResult').style.backgroundColor = '#61dafb';
 
 
 }
