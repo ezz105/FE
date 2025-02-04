@@ -1,0 +1,1 @@
+## this file "JavaScript Loop and Fetch Examples". It contains various examples of loops, fetch requests, and basic arithmetic operations in JavaScript.
